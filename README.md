@@ -1,15 +1,16 @@
 # CRM-Analytics
 
-RFM ile Müşteri Segmentasyonu (Customer Segmentation with RFM)
-###############################################################
+# RFM ile Müşteri Segmentasyonu (Customer Segmentation with RFM)
+
+
 İş Problemi (Business Problem)
-###############################################################
+
 FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor.
 Buna yönelik olarak müşterilerin davranışları tanımlanacak ve bu davranış öbeklenmelerine göre gruplar oluşturulacak..
 
-###############################################################
+
 Veri Seti Hikayesi
-###############################################################
+
 
 Veri seti son alışverişlerini 2020 - 2021 yıllarında OmniChannel(hem online hem offline alışveriş yapan) olarak yapan müşterilerin geçmiş alışveriş davranışlarından
 elde edilen bilgilerden oluşmaktadır.
@@ -28,13 +29,12 @@ customer_value_total_ever_online : Müşterinin online alışverişlerinde öded
 interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
 
 
-##############################################################
-BG-NBD ve Gamma-Gamma ile CLTV Prediction
-##############################################################
 
-###############################################################
+# BG-NBD ve Gamma-Gamma ile CLTV Prediction
+
+
 İş Problemi (Business Problem)
-###############################################################
+
 FLO satış ve pazarlama faaliyetleri için roadmap belirlemek istemektedir.
 Şirketin orta uzun vadeli plan yapabilmesi için var olan müşterilerin gelecekte şirkete sağlayacakları potansiyel değerin tahmin edilmesi gerekmektedir.
 
