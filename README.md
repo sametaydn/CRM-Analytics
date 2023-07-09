@@ -32,8 +32,10 @@ Business Problem
 
 FLO wants to determine a roadmap for its sales and marketing activities. To enable the company to make medium to long-term plans, it is necessary to predict the potential value that existing customers will provide to the company in the future.
 
-# Process
+# Process 
 
 • The customer data set reflects OmniChannel shopping behaviours from 2020-2021, sourced from Flo's recent purchases.
+
 • To support the company's medium to long-term planning efforts, I constructed BG/NBD and Gamma-Gamma models and calculated the Customer Lifetime Value (CLTV) to estimate the potential value that existing customers will bring to the company in the future.
+
 • Also, made a customer segmentation using unsupervised learning.
